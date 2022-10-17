@@ -1,0 +1,94 @@
+#read{
+  background:#0f0f0f;
+  color:#d8fa7b;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:5px solid;
+  padding:10px 20px;
+  font-family:sans-serif;
+  font-size:11pt;
+  text-align: center;
+}
+
+#ori{
+    background:#030303;
+    color:#8278da;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:5px solid;
+    padding:10px 20px;
+    font-family:sans-serif;
+    font-size:11pt;
+  }
+
+  #histval{
+    background:#030303;
+    color:#a8320e;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:5px solid;
+    padding:10px 20px;
+    font-family:sans-serif;
+    font-size:11pt;
+  }
+  
+  #default{
+    background:#030303;
+    color:#67666b;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:5px solid;
+    padding:10px 20px;
+    font-family:sans-serif;
+    font-size:11pt;
+  }
+
+  body{
+    background : rgb(161, 120, 185); 
+}
+
+#canvas1{
+    border: rgb(0, 0, 0) 2px solid;
+    border-radius: 5%;      
+}
+
+#hist1{
+    background:#0f0f0f;
+    color:#d8fa7b;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:5px solid;
+    padding:10px 20px;
+    font-family:sans-serif;
+    font-size:11pt;
+    text-align: center;
+}
+
+#thdefault{
+background:#030303;
+color:#67666b;
+border-top:0;
+border-left:0;
+border-right:0;
+border-bottom:5px solid;
+padding:10px 20px;
+font-family:sans-serif;
+font-size:11pt;
+}
+
+#brdefault{
+background:#030303;
+color:#67666b;
+border-top:0;
+border-left:0;
+border-right:0;
+border-bottom:5px solid;
+padding:10px 20px;
+font-family:sans-serif;
+font-size:11pt;
+}
